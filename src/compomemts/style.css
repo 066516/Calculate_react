@@ -1,0 +1,28 @@
+/* body{
+    width: 100 vw;
+} */
+nav{
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+}
+#menu{
+    display:  flex;
+    width: 50%;
+    justify-content: space-between;
+}
+ul{
+    display: flex;
+    width: 50%;
+   justify-content: space-between;
+}
+ul li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.menu{
+    display: none;
+}
